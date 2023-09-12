@@ -1,0 +1,5 @@
+1,cake,5, 100
+2, candy, 2, 100
+3, biscuits, 5, 150
+4,juice,10, 100
+
